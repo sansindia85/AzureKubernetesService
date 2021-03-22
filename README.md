@@ -1,1 +1,1 @@
-# AzureKubernetesService
+Deploy and manage containerised applications more easily with a fully managed Kubernetes service called Azure Kubernetes Service.
